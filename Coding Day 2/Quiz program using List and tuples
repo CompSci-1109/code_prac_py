@@ -1,0 +1,6 @@
+print("\t\t\\t\t\t\tQuiz Time!!!\t\t\t\t\t\t")
+qstn_List=[("What is the capital of Italy?")("Rome", "Venice", "Pisa", "Florence")("Rome")
+            "Where is Schoenbrunn located?")("Salzburg", "Leipzig", "Vienna", "Linz")("Vienna")
+            "Who was the world's first programmer")("Ada Lovelace", "Charles Babbage", "Margaret Hamilton", "Steve Wozniak")("Ada Lovelace")
+            "What is the capital of Italy?")("Rome", "Venice", "Pisa", "Florence")("Rome")
+            "What is the capital of Italy?")("Rome", "Venice", "Pisa", "Florence")("Rome")]
