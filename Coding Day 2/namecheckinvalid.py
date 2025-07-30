@@ -18,8 +18,7 @@ for alph in name:
     elif alph.isspace():
         has_Space=True
 if has_char12 or has_Digit or has_Space:
-    print("The Username must have no numbers, spaces and must be lesser than 12 characters.\n")
-else:
+    print("Not Accepted.")
 
     if has_char12:
       print("The Username must not be longer than 12 characters.")
@@ -28,5 +27,5 @@ else:
     if has_Space:
       print("The username cannot have spaces.")
 else:
-    print("Username Accepted.")
+      print("Username Accepted.")
 
